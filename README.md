@@ -2,4 +2,4 @@
 this my first repository
 <br>
 Author - Neha Jakhmola
-<hr>Hello Word<hr>
+<h1>Hello Word<h1>
